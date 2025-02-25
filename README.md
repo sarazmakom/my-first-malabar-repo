@@ -18,6 +18,7 @@ ___
 
 ![alt text] (https://picsum.photos/200/300.jpg) didn't work 
 
-[alt text] ([https://picsum.photos/200](https://picsum.photos/200/300.jpg))
+[alt text] ([https://picsum.photos/200](https://picsum.photos/200/300.jpg)) same 
 
+seal the deal
 ![1084-536x354-grayscale](https://github.com/user-attachments/assets/63815cc1-9472-4bcc-92b3-28a4932feeed)
