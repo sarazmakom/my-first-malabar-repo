@@ -10,3 +10,10 @@ and some `code`
    - unordered list first
    - unordered list second
    - unordered list third
+
+the horizontal rule
+___
+
+[link](https://sarazmakom.github.io/)
+
+[alt text] (https://picsum.photos/200)
