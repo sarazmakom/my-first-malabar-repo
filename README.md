@@ -22,3 +22,11 @@ ___
 
 seal the deal
 ![1084-536x354-grayscale](https://github.com/user-attachments/assets/63815cc1-9472-4bcc-92b3-28a4932feeed)
+
+[ ] checkbox
+
+[x] done checkbox
+
+some italicized text	_here is some italicized text_
+
+```a bigger piece of code markdown``` 
