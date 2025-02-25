@@ -3,9 +3,9 @@
 Some **bold text**
 and some `code`
 > some blockquote
-1. first
-2. second
-3. third
+1. first ordered
+2. second ordered
+3. third ordered
 
    - unordered list first
    - unordered list second
